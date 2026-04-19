@@ -41,4 +41,6 @@ terraform.rc
 
 #ignore this file
 terraform.tfvars.txt
+.terraform.lock.hcl
+
 
